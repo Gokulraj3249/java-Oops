@@ -10,6 +10,7 @@ class EncapsulationDemo{
 	public String getEmpName() {
 		return empName;
 	}
+	
 	public int getEmpAge() {
 		return empAge;
 	}
